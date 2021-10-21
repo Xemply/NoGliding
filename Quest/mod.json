@@ -1,0 +1,18 @@
+
+{
+    "_QPVersion": "0.1.1",
+    "name": "nogliding",
+    "id": "nogliding",
+    "author": "Xemply",
+    "version": "0.1.0",
+    "packageId": "com.loudshirtgames.flyingsquirrelchase",
+    "packageVersion": "1.12.6",
+    "description": "Crashes your game when you try to glide.",
+    "coverImage": "Cover.png",
+    "modFiles": [
+        "libnogliding.so"
+    ],
+    "libraryFiles": [
+        "libbeatsaber-hook_3_3_4.so"
+    ]
+}
